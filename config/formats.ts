@@ -4,7 +4,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	},
 	{
 		name: "Draft Custom Battle",
-		mod: 'gen9natdex',
+		mod: 'gen9',
 		searchShow: false,
 		debug: true,
 		battle: {trunc: Math.trunc},
